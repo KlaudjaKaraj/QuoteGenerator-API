@@ -1,3 +1,3 @@
 # QuoteGenerator
 
-![Preview](images/sc.png)
+![Preview](sc.png)
